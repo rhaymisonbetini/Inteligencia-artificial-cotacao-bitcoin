@@ -1,0 +1,15 @@
+{
+  "name": "cotacoes-bitcoin",
+  "version": "1.0.0",
+  "description": "cotacoes do bitcoin com tensorflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rhaymison cristian",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.8.6",
+    "@tensorflow/tfjs-node": "^2.8.6"
+  }
+}
